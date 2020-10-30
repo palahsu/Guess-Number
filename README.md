@@ -16,6 +16,6 @@ Basic math operations include four basic operations:
 ●Many times difficult equations can come, but if you can't guess, you can use the reset button.
 
 ## How to use:
-` Just Download Guess Number.Exe And Run Your Game`
+` Just Download Guess Number.Exe And Install and Your Game`
 
 
